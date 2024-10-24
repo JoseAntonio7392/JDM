@@ -50,7 +50,7 @@
 
         main {
             padding: 20px;
-            background-color: rgba(255, 255, 255, 0.85);
+            background-color: rgba(225, 255, 255, 0.85);
             border-radius: 10px;
             max-width: 1200px;
             margin: 20px auto;
